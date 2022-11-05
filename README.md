@@ -1,4 +1,4 @@
-# voice-recognition-neuronal-network
+# voice-recognition-neural-network
 
 DIGITAL SIGNAL PROCESSING
 
